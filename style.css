@@ -1,3 +1,30 @@
 body{
     background-color: #353848;
 }
+
+.head-nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.leaderboard{
+    color: white;
+    margin-top: 20px;
+    margin-left: 1000px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.what-is{
+    margin-left: 85px;
+    margin-top: 130px;
+    color: white;
+}
+
+.home-img{
+    margin-left: 150px;
+
+}
