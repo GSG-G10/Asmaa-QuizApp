@@ -1,3 +1,57 @@
 body{
     background-color: #353848;
 }
+
+.head-nav{
+    display: flex;
+    flex-direction: row;
+}
+.head-nav a{
+    text-decoration: none;
+}
+
+.leaderboard{
+    color: white;
+    margin-top: 20px;
+    margin-left: 1000px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.what-is{
+    margin-left: 85px;
+    margin-top: 130px;
+    color: white;
+}
+
+.home-img{
+    margin-left: 150px;
+
+}
+
+/* Quiz page */
+.name-score{
+    display: flex;
+    margin-left:400px;
+    color: white;
+}
+.name-score li{
+    list-style: none;
+    padding: 20px;
+}
+.quiz-form{
+    margin-left: 500px;
+}
+.quiz-form p{
+    color:white
+}
+
+/* leaderboard page  */
+.quiz-result{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
