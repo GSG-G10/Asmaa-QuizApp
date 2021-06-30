@@ -42,7 +42,12 @@ body{
     list-style: none;
     padding: 20px;
 }
-
+.quiz-form{
+    margin-left: 500px;
+}
+.quiz-form p{
+    color:white
+}
 
 /* leaderboard page  */
 .quiz-result{
