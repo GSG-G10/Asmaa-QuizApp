@@ -6,6 +6,9 @@ body{
     display: flex;
     flex-direction: row;
 }
+.head-nav a{
+    text-decoration: none;
+}
 
 .leaderboard{
     color: white;
@@ -27,4 +30,23 @@ body{
 .home-img{
     margin-left: 150px;
 
+}
+
+/* Quiz page */
+.name-score{
+    display: flex;
+    margin-left:400px;
+    color: white;
+}
+.name-score li{
+    list-style: none;
+    padding: 20px;
+}
+
+
+/* leaderboard page  */
+.quiz-result{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
 }
